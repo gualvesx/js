@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Pesquisa: JavaScript. 
 - **O que é JavaScript?** 
 #### JavaScript é uma linguagem de programação usada por desenvolvedores para fazer páginas interativas da Internet. As funções de JavaScript podem melhorar a experiência do usuário durante a navegação em um site, como, por exemplo, desde a atualização do feed na página da mídia social até a exibição de animações e mapas interativos. Como uma linguagem de script do lado do cliente, ele é uma das tecnologias principais da World Wide Web.
+![JavaScript-Symbol](https://github.com/user-attachments/assets/feef32d5-1b54-4ea8-91b1-050d61d11cae)
 ##
 # História
 Ele foi criado em meados dos anos 90 por Brendan Eich, enquanto trabalhava na Netscape Communications. Inicialmente, a linguagem foi chamada de LiveScript, mas foi renomeada para JavaScript quando a Netscape fez uma parceria com a Sun Microsystems, que na época estava popularizando a linguagem Java.
